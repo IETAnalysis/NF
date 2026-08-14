@@ -1,0 +1,5 @@
+numpy>=1.24,<3
+NetfilterQueue>=1.1.0,<2; platform_system == "Linux"
+PyYAML>=6,<7
+scapy>=2.5,<3
+pytest>=8,<9
